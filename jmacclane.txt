@@ -3,6 +3,6 @@ James
 Surveillance entrepôt
 pmNd1ldFE7WTk
 
-lampe
-taser
-menottes
+Lampe
+Taser
+Menottes
